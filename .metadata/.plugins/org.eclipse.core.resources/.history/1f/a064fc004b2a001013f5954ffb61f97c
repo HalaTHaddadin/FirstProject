@@ -1,0 +1,89 @@
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class myClass {
+	WebDriver driver = new EdgeDriver();
+
+	String TheWebsite = "https://www.saucedemo.com/";
+
+	String UserName = "standard_user";
+	String Password = "secret_sauce";
+
+	@BeforeTest
+	public void mySetup()
+
+	{
+		driver.manage().window().maximize();
+		driver.get(TheWebsite);
+
+	}
+
+	@Test(priority = 1)
+	public void login() throws InterruptedException {
+		WebElement UserNameInput = driver.findElement(By.id("user-name"));
+		WebElement PasswordInput = driver.findElement(By.id("password"));
+		WebElement LoginButton = driver.findElement(By.id("login-button"));
+
+		UserNameInput.sendKeys(UserName);
+		PasswordInput.sendKeys(Password);
+		LoginButton.click();
+
+	}
+
+	@Test(priority = 2)
+	public void addAllItems() throws InterruptedException {
+	 
+		List <WebElement> AddToCartButton= driver.findElements(By.className("btn"));
+		
+		for (int i=0; i<AddToCartButton.size();i++)
+		{
+			AddToCartButton.get(i).click();
+			Thread.sleep(2000);
+
+		}
+		
+		Thread.sleep(2000);
+
+	}
+
+	@Test(priority = 3)
+	public void removeAllItem() {
+
+		List<WebElement> RemoveFromCartButton = driver.findElements(By.className("btn"));
+for (int i=0 ;i<RemoveFromCartButton.size();i++) {
+	RemoveFromCartButton.get(i).click();
+}
+	
+	}
+
+	@Test(priority = 4,enabled=false)
+	public void logout() throws InterruptedException {
+		WebElement BurgerMenue = driver.findElement(By.id("react-burger-menu-btn"));
+		BurgerMenue.click();
+		Thread.sleep(1000);
+
+		WebElement LogoutButton = driver.findElement(By.id("logout_sidebar_link"));
+		LogoutButton.click();
+		WebElement MainLogo= driver.findElement(By.className("login_logo"));
+		System.out.println(MainLogo.getText());
+		
+		WebElement loginD= driver.findElement(By.className("login_credentials_wrap-inner"));
+		System.out.println(loginD.getText());
+	}
+
+	@AfterTest
+	public void myAfterTest() throws InterruptedException {
+
+		// driver.quit();
+
+	}
+
+
+}
