@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="lesoon7project"/>
 			<item value="TaskAuto"/>
 			<item value="Automation5"/>
 			<item value="Lesson1"/>
@@ -11,6 +12,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="lesoon7project"/>
 			<item value="TaskAuto"/>
 			<item value="Automation5"/>
 			<item value="Lesson1"/>

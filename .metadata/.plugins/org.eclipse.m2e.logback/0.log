@@ -3169,3 +3169,347 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2025-05-06 14:33:50,952 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\TaskAuto\src\main\resources
 2025-05-06 14:33:50,953 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-05-06 14:33:50,954 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\TaskAuto\src\test\resources
+2025-05-06 14:39:44,408 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-06 14:40:15,266 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:40:15,269 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 14:40:15,274 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:40:15,275 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 14:44:14,584 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lesoon7project:lesoon7project:0.0.1-SNAPSHOT @ C:\Users\Hala\eclipse-workspace\lesoon7project\pom.xml.
+2025-05-06 14:44:15,106 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lesoon7project/src
+2025-05-06 14:44:15,108 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /lesoon7project/src/main/resources overlaps with sources folder /lesoon7project/src
+2025-05-06 14:44:15,110 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /lesoon7project/src/test/java because it overlaps with /lesoon7project/src
+2025-05-06 14:44:15,111 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /lesoon7project/src/test/resources overlaps with sources folder /lesoon7project/src
+2025-05-06 14:44:15,202 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-06 14:44:15,437 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lesoon7project:lesoon7project:0.0.1-SNAPSHOT @ C:\Users\Hala\eclipse-workspace\lesoon7project\pom.xml.
+2025-05-06 14:44:15,497 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lesoon7project/src
+2025-05-06 14:44:15,498 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /lesoon7project/src/main/resources overlaps with sources folder /lesoon7project/src
+2025-05-06 14:44:15,499 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /lesoon7project/src/test/java because it overlaps with /lesoon7project/src
+2025-05-06 14:44:15,499 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /lesoon7project/src/test/resources overlaps with sources folder /lesoon7project/src
+2025-05-06 14:44:15,545 [Worker-5: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-05-06 14:44:15,655 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:44:15,656 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:44:15,660 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:44:15,661 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 14:45:47,052 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: lesoon7project:lesoon7project:0.0.1-SNAPSHOT @ C:\Users\Hala\eclipse-workspace\lesoon7project\pom.xml.
+2025-05-06 14:45:47,289 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:45:47,289 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:45:47,291 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:45:47,292 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 14:45:48,469 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:45:48,470 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:45:48,472 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:45:48,473 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 14:46:38,089 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:46:38,091 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:46:38,094 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:46:38,095 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 14:49:27,182 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:49:27,183 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:49:27,185 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:49:27,186 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 14:50:32,354 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:50:32,355 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\main\resources
+2025-05-06 14:50:32,357 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 14:50:32,358 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\lesoon7project\src\test\resources
+2025-05-06 15:04:52,636 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationFinalProject-april:AutomationFinalProject-april:0.0.1-SNAPSHOT @ C:\Users\Hala\Desktop\QA\abd\FinalProjectApril\pom.xml.
+2025-05-06 15:04:53,360 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.pom
+2025-05-06 15:04:53,374 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.pom
+2025-05-06 15:04:53,450 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/81/commons-parent-81.pom
+2025-05-06 15:04:53,533 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/81/commons-parent-81.pom
+2025-05-06 15:04:53,621 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.11.4/junit-bom-5.11.4.pom
+2025-05-06 15:04:53,632 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.11.4/junit-bom-5.11.4.pom
+2025-05-06 15:04:53,769 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.jar
+2025-05-06 15:04:53,974 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0.jar
+2025-05-06 15:04:54,712 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\Desktop\QA\abd\FinalProjectApril\src\main\resources
+2025-05-06 15:04:54,716 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\Desktop\QA\abd\FinalProjectApril\src\test\resources
+2025-05-06 15:04:55,290 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\Desktop\QA\abd\FinalProjectApril\src\main\resources
+2025-05-06 15:04:55,297 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\Desktop\QA\abd\FinalProjectApril\src\test\resources
+2025-05-06 15:04:55,830 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0-sources.jar
+2025-05-06 15:04:56,111 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.19.0/commons-io-2.19.0-sources.jar
+2025-05-06 15:04:56,114 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.19.0
+2025-05-06 15:06:00,769 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-06 15:06:00,805 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TaskAuto:TaskAuto:0.0.1-SNAPSHOT @ C:\Users\Hala\eclipse-workspace\TaskAuto\pom.xml.
+2025-05-06 15:06:01,009 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TaskAuto/src
+2025-05-06 15:06:01,010 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TaskAuto/src/main/resources overlaps with sources folder /TaskAuto/src
+2025-05-06 15:06:01,010 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TaskAuto/src/test/java because it overlaps with /TaskAuto/src
+2025-05-06 15:06:01,011 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TaskAuto/src/test/resources overlaps with sources folder /TaskAuto/src
+2025-05-06 15:06:01,096 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Reset launch configuration name: task1
+2025-05-06 15:06:01,097 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating task1 from maven configuration
+2025-05-06 15:06:02,341 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Reset launch configuration name: task1.print
+2025-05-06 15:06:02,341 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating task1.print from maven configuration
+2025-05-06 15:06:02,342 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Reset launch configuration name: task2
+2025-05-06 15:06:02,342 [Worker-39: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating task2 from maven configuration
+2025-05-06 15:06:02,363 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2025-05-06 15:06:02,584 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 15:06:02,584 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\TaskAuto\src\main\resources
+2025-05-06 15:06:02,586 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 15:06:02,587 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\TaskAuto\src\test\resources
+2025-05-06 20:29:42,516 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-06 20:30:32,257 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:30:32,259 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 20:30:32,263 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:30:32,264 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 20:32:56,351 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:32:56,352 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 20:32:56,354 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:32:56,355 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 20:37:33,957 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:37:33,958 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 20:37:33,960 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:37:33,961 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 20:38:49,786 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating Codevs from maven configuration
+2025-05-06 20:38:52,928 [Worker-22: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:38:52,928 [Worker-22: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 20:38:52,931 [Worker-22: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:38:52,931 [Worker-22: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 20:40:47,622 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:40:47,623 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 20:40:47,625 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 20:40:47,625 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:21:54,659 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:21:54,661 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:21:54,663 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:21:54,664 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:25:05,422 [Worker-29: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:25:05,423 [Worker-29: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:25:05,425 [Worker-29: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:25:05,426 [Worker-29: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:28:40,869 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:28:40,870 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:28:40,872 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:28:40,872 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:32:00,149 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:32:00,150 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:32:00,152 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:32:00,152 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:32:44,273 [Worker-6: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:32:44,274 [Worker-6: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:32:44,276 [Worker-6: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:32:44,277 [Worker-6: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:38:43,375 [Worker-36: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:38:43,376 [Worker-36: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:38:43,378 [Worker-36: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:38:43,378 [Worker-36: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:40:41,287 [Worker-39: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:40:41,289 [Worker-39: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:40:41,293 [Worker-39: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:40:41,293 [Worker-39: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:40:50,924 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:40:50,925 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:40:50,927 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:40:50,928 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 21:47:53,287 [Worker-44: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:47:53,288 [Worker-44: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 21:47:53,289 [Worker-44: Launching Codevs] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 21:47:53,290 [Worker-44: Launching Codevs] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 22:18:24,065 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:18:24,066 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 22:18:24,068 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:18:24,069 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 22:34:00,783 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating lesson8 from maven configuration
+2025-05-06 22:34:02,178 [Worker-52: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:34:02,180 [Worker-52: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 22:34:02,182 [Worker-52: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:34:02,183 [Worker-52: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 22:35:20,082 [Worker-58: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:35:20,082 [Worker-58: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 22:35:20,085 [Worker-58: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:35:20,086 [Worker-58: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 22:45:41,039 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:45:41,040 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 22:45:41,041 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:45:41,042 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 22:52:53,945 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:52:53,946 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 22:52:53,949 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 22:52:53,950 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:10:27,712 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:10:27,714 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:10:27,717 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:10:27,717 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:13:53,478 [Worker-69: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:13:53,479 [Worker-69: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:13:53,481 [Worker-69: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:13:53,481 [Worker-69: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:17:53,596 [Worker-77: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:17:53,597 [Worker-77: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:17:53,601 [Worker-77: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:17:53,601 [Worker-77: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:25:34,809 [Worker-75: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:25:34,810 [Worker-75: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:25:34,812 [Worker-75: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:25:34,812 [Worker-75: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:27:11,017 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:27:11,018 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:27:11,020 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:27:11,020 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:28:51,805 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:28:51,820 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:28:51,822 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:28:51,823 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:28:58,222 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:28:58,223 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:28:58,226 [Worker-75: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:28:58,227 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:31:30,565 [Worker-80: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:31:30,566 [Worker-80: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:31:30,569 [Worker-80: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:31:30,570 [Worker-80: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:55:46,208 [Worker-84: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:55:46,210 [Worker-84: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:55:46,212 [Worker-84: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:55:46,213 [Worker-84: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-06 23:57:29,804 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:57:29,805 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-06 23:57:29,807 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-06 23:57:29,808 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 01:44:25,578 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 01:44:25,579 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 01:44:25,580 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 01:44:25,581 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 08:08:37,632 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-07 08:42:58,976 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 08:42:58,978 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 08:42:58,983 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 08:42:58,987 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 09:16:11,254 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-07 10:12:51,169 [Worker-25: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:12:51,172 [Worker-25: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:12:51,178 [Worker-25: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:12:51,179 [Worker-25: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:13:05,372 [Worker-33: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:13:05,372 [Worker-33: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:13:05,375 [Worker-33: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:13:05,377 [Worker-33: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:14:22,466 [Worker-30: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:14:22,467 [Worker-30: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:14:22,470 [Worker-30: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:14:22,471 [Worker-30: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:15:25,254 [Worker-34: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:15:25,255 [Worker-34: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:15:25,257 [Worker-34: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:15:25,257 [Worker-34: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:16:51,625 [Worker-25: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:16:51,626 [Worker-25: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:16:51,632 [Worker-25: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:16:51,633 [Worker-25: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:20:43,103 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:20:43,103 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:20:43,105 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:20:43,105 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:23:56,485 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:23:56,486 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:23:56,487 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:23:56,488 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:25:30,287 [Worker-42: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:25:30,288 [Worker-42: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:25:30,290 [Worker-42: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:25:30,291 [Worker-42: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:44:30,301 [Worker-46: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:44:30,301 [Worker-46: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:44:30,303 [Worker-46: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:44:30,304 [Worker-46: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:47:52,749 [Worker-46: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:47:52,750 [Worker-46: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:47:52,752 [Worker-46: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:47:52,752 [Worker-46: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:48:07,834 [Worker-48: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:48:07,835 [Worker-48: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:48:07,837 [Worker-48: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:48:07,837 [Worker-48: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 10:48:37,544 [Worker-45: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:48:37,544 [Worker-45: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 10:48:37,546 [Worker-45: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 10:48:37,547 [Worker-45: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:09:34,500 [Worker-47: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:09:34,501 [Worker-47: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:09:34,502 [Worker-47: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:09:34,503 [Worker-47: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:11:11,345 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:11:11,346 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:11:11,348 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:11:11,349 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:13:22,580 [Worker-45: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:13:22,581 [Worker-45: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:13:22,582 [Worker-45: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:13:22,582 [Worker-45: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:13:51,265 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:13:51,266 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:13:51,267 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:13:51,268 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:25:34,925 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:25:34,927 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:25:34,928 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:25:34,929 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:56:15,120 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:56:15,122 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:56:15,125 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:56:15,126 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:59:02,756 [Worker-61: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:59:02,757 [Worker-61: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:59:02,758 [Worker-61: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:59:02,759 [Worker-61: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 11:59:08,639 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:59:08,639 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 11:59:08,641 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 11:59:08,641 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:26:05,835 [Worker-58: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:26:05,836 [Worker-58: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:26:05,838 [Worker-58: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:26:05,839 [Worker-58: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:26:37,691 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:26:37,692 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:26:37,694 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:26:37,695 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:27:14,838 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:27:14,839 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:27:14,843 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:27:14,844 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:30:10,461 [Worker-68: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:10,462 [Worker-68: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:30:10,465 [Worker-68: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:10,466 [Worker-68: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:30:39,092 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:39,093 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:30:39,095 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:39,095 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:30:55,291 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:55,292 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:30:55,294 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:30:55,294 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:40:09,986 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:40:09,987 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:40:09,990 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:40:09,991 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:48:25,714 [Worker-73: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:48:25,715 [Worker-73: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:48:25,718 [Worker-73: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:48:25,718 [Worker-73: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:48:53,355 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:48:53,355 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:48:53,357 [Worker-77: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:48:53,357 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:55:52,048 [Worker-80: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:55:52,049 [Worker-80: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:55:52,052 [Worker-80: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:55:52,053 [Worker-80: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 12:57:49,757 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:57:49,759 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 12:57:49,761 [Worker-82: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 12:57:49,762 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 13:02:16,464 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:02:16,465 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 13:02:16,467 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:02:16,468 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 13:09:33,802 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:09:33,805 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 13:09:33,809 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:09:33,810 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 13:18:21,957 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:18:21,958 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 13:18:21,961 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:18:21,962 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources
+2025-05-07 13:19:56,109 [Worker-90: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:19:56,112 [Worker-90: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\main\resources
+2025-05-07 13:19:56,115 [Worker-90: Launching lesson8] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-05-07 13:19:56,117 [Worker-90: Launching lesson8] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Hala\eclipse-workspace\Lesson1\src\test\resources

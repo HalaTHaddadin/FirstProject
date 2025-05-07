@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="12" total="13" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-06T21:47:55 EET" name="Default suite" finished-at="2025-05-06T21:47:56 EET" duration-ms="1012">
+  <suite started-at="2025-05-07T13:20:00 EET" name="Default suite" finished-at="2025-05-07T13:20:17 EET" duration-ms="16398">
     <groups>
     </groups>
-    <test started-at="2025-05-06T21:47:55 EET" name="Default test" finished-at="2025-05-06T21:47:56 EET" duration-ms="1012">
-      <class name="Codevs">
-        <test-method is-config="true" signature="mySetup()[pri:0, instance:Codevs@4983159f]" started-at="2025-05-06T21:47:55 EET" name="mySetup" finished-at="2025-05-06T21:47:56 EET" duration-ms="760" status="PASS">
+    <test started-at="2025-05-07T13:20:00 EET" name="Default test" finished-at="2025-05-07T13:20:17 EET" duration-ms="16398">
+      <class name="lesson8">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:lesson8@180da663]" started-at="2025-05-07T13:20:00 EET" name="mySetup" finished-at="2025-05-07T13:20:08 EET" duration-ms="7587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySetup -->
-        <test-method signature="myTest()[pri:0, instance:Codevs@4983159f]" started-at="2025-05-06T21:47:56 EET" name="myTest" finished-at="2025-05-06T21:47:56 EET" duration-ms="223" status="PASS">
+        <test-method signature="Calender()[pri:13, instance:lesson8@180da663]" started-at="2025-05-07T13:20:08 EET" name="Calender" finished-at="2025-05-07T13:20:17 EET" duration-ms="8655" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- myTest -->
-      </class> <!-- Codevs -->
+        </test-method> <!-- Calender -->
+      </class> <!-- lesson8 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
